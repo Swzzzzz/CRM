@@ -1,0 +1,7 @@
+com\bjpowernode\crm\settings\domain\User.class
+com\bjpowernode\crm\settings\mapper\UserMapper.class
+com\bjpowernode\crm\settings\service\UserService.class
+com\bjpowernode\crm\commons\domain\ReturnObject.class
+com\bjpowernode\crm\settings\web\controller\UserController.class
+com\bjpowernode\crm\settings\service\impl\UserServiceImpl.class
+com\bjpowernode\crm\web\controller\IndexController.class
